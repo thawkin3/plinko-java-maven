@@ -1,6 +1,6 @@
 # Java Plinko
 
-This is a Plinko game from the game show The Price Is Right built in Java. A chip is dropped from the middle slot of a 9x13 board, bounces on pegs on its way down, and then lands in one of nine buckets.
+This is a Plinko game from the game show The Price Is Right written in Java with Maven and JUnit. A chip is dropped from the middle slot of a 9x13 board, bounces on pegs on its way down, and then lands in one of nine buckets.
 
 This experiment is run 10,000 times, and then the actual results are compared to the expected results based on the probability of the chip landing in each bucket. The actual results compared to the expected results are extremely close, often within less than 1% difference for each bucket.
 
